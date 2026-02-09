@@ -1,0 +1,12 @@
+# 5. Uurimistulemuste esitlemine
+
+::: {style="border: 2px dotted #555; padding: 10px;"}
+Käesolevas peatükis keskendume järgmistele küsimustele:
+
+* Kuidas uurimisaruannet korrektselt vormistada?
+* Kuidas kasutada uurimisaruande vormistamisel mõistlikult jooniseid, tabeleid ja
+diagramme?
+* Milliseid võimalusi pakuvad uurimsiaruande vormistamisel siseviited, pealdised ja
+indeks?
+* Kuidas esitleda ja kaitsta oma uurimistöö tulemusi?
+:::

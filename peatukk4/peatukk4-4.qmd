@@ -1,0 +1,1 @@
+# 4.4.* Keskväärtuste vahelise erinevuse üldistamine: t-test {.unnumbered}

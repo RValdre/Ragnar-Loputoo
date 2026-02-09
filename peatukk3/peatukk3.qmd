@@ -1,0 +1,12 @@
+# 3. Ülevaade andmetest
+
+::: {style="border: 2px dotted #555; padding: 10px;"}
+Käesolevas peatükis keskendume järgmistele küsimustele:
+
+* Millise meetodiga saab kõige lihtsamalt ülevaate andmetest?
+* Millal ja kuidas on statistiliselt korrektne oma uuringu tulemusi üldistada?
+* Kas mõnikord on ainult tekst tulemuste esitamiseks parim viis?
+* Mis on diagrammide eesmärk ja kuidas seda saavutada?
+* Miks ei piisa mõnikord ainult keskväärtuse arvutamisest? Milleks on vaja mediaani,
+moodi ja standardhälvet?
+:::

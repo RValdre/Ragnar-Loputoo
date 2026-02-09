@@ -1,0 +1,12 @@
+# 2. Andmete kogumine ja analüüsiks ettevalmistamine
+
+::: {style="border: 2px dotted #555; padding: 10px;"}
+Käesolevas peatükis keskendume järgmistele küsimustele:
+
+* Kuidas andmeid koguda, et uurimistöö tulemused oleksid usaldusväärsed? 
+* Mida peaks küsimustiku koostamisel silmas pidama, mida vältima?
+* Kas ka andmekogumist saab korraldada veebipõhiselt?
+* Kas andmeid tuleb koguda kõigi kohta, keda/mida uurimistöö järeldused hõlmama peaksid?
+* Kuidas sisestada andmed arvutisse nii, et neid oleks võimalik mugavalt analüüsida?
+* Kuidas veenduda, et andmete sisestamisel pole tekkinud vigu?
+:::

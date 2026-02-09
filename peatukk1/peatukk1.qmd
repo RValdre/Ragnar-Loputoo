@@ -1,0 +1,12 @@
+# 1. Uurimistöö: mõisted, protsess, alustamine
+
+::: {style="border: 2px dotted #555; padding: 10px;"}
+Käesolevas peatükis keskendume järgmistele küsimustele:
+
+* Mis on teaduslik uurimistöö? Kuidas erineb see teistest uurimistöö liikidest?
+* Kuidas on arusaamad uurimistöö olemusest aja jooksul muutunud?
+* Kuidas kasutatakse arvutit uurimistöö erinevates etappides?
+* Kust ja kuidas leida kirjalikke allikaid varasemate uuringute kohta?
+* Milliste vahendite abil saab lihtsustada allikaviidete ja viitekirjete haldamist?
+* Miks on allikakriitiline lähenemine uurimistöös oluline?
+:::
