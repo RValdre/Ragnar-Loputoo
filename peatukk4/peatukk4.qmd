@@ -1,6 +1,6 @@
-# 4. Erinevuste, trendide ja seoste uurimine
+# 4. Erinevuste, trendide ja seoste uurimine {.unnumbered}
 
-::: {style="border: 2px dotted #555; padding: 10px;"}
+::: {style="border: 2px dotted #555; padding: 10px; margin-bottom: 10px;"}
 Käesolevas peatükis keskendume järgmistele küsimustele:
 
 * Kuidas võrrelda erinevate gruppide tulemusi?
@@ -10,3 +10,17 @@ uurimisel?
 * Kuidas lahendada olukord, kui võrreldavate gruppide suurused ei ole võrdsed?
 * Millisel juhul saab valimi keskmiste vahel olevat erinevust üldkogumile üldistada?
 :::
+
+## 4.1. Erinevuste uurimine kasutades keskväärtusi {.unnumbered .sub-title}
+
+## 4.2. Erinevuste uurimine kasutades sagedusi ja protsente {.unnumbered .sub-title}
+
+## 4.3. Erinevuste illustreerimine protsentuaalseid jaotusi võrdleva diagrammina {.unnumbered .sub-title}
+
+## 4.4.\* Keskväärtuste vahelise erinevuse üldistamine: t-test {.unnumbered .sub-title}
+
+## 4.5. Trendide e ajas toimuvate muutuste uurimine {.unnumbered .sub-title}
+
+## 4.6. Seoste uurimine {.unnumbered .sub-title}
+
+## 4.7. Kvalitatiivne sisuanalüüs {.unnumbered .sub-title}

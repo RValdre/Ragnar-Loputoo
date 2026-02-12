@@ -1,1 +1,0 @@
-# 4.1. Erinevuste uurimine kasutades keskväärtusi {.unnumbered}

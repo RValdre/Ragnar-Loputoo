@@ -1,6 +1,6 @@
-# 1. Uurimistöö: mõisted, protsess, alustamine
+# 1. Uurimistöö: mõisted, protsess, alustamine {.unnumbered}
 
-::: {style="border: 2px dotted #555; padding: 10px;"}
+::: {style="border: 2px dotted #555; padding: 10px; margin-bottom: 10px;"}
 Käesolevas peatükis keskendume järgmistele küsimustele:
 
 * Mis on teaduslik uurimistöö? Kuidas erineb see teistest uurimistöö liikidest?
@@ -10,3 +10,23 @@ Käesolevas peatükis keskendume järgmistele küsimustele:
 * Milliste vahendite abil saab lihtsustada allikaviidete ja viitekirjete haldamist?
 * Miks on allikakriitiline lähenemine uurimistöös oluline?
 :::
+
+## 1.1. Uurimistöö olemus {.unnumbered .sub-title}
+
+Insert text
+
+## 1.2. Arvuti roll uurimistöös {.unnumbered .sub-title}
+
+Insert text
+
+## 1.3. Töö allikatega ja infootsing {.unnumbered .sub-title}
+
+Dummy text
+
+## 1.4. Viitamine {.unnumbered .sub-title}
+
+Dummy text
+
+## 1.5\*. Allikakriitiline lähenemine {.unnumbered .sub-title}
+
+Dummy text

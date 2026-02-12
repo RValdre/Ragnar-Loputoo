@@ -1,6 +1,6 @@
-# 2. Andmete kogumine ja analüüsiks ettevalmistamine
+# 2. Andmete kogumine ja analüüsiks ettevalmistamine {.unnumbered}
 
-::: {style="border: 2px dotted #555; padding: 10px;"}
+::: {style="border: 2px dotted #555; padding: 10px; margin-bottom: 10px;"}
 Käesolevas peatükis keskendume järgmistele küsimustele:
 
 * Kuidas andmeid koguda, et uurimistöö tulemused oleksid usaldusväärsed? 
@@ -10,3 +10,31 @@ Käesolevas peatükis keskendume järgmistele küsimustele:
 * Kuidas sisestada andmed arvutisse nii, et neid oleks võimalik mugavalt analüüsida?
 * Kuidas veenduda, et andmete sisestamisel pole tekkinud vigu?
 :::
+
+## 2.1. Andmete kogumise erinevad viisid {.unnumbered .sub-title}
+
+Lorem Ipsum
+
+## 2.2. Küsimustiku koostamise ABC {.unnumbered .sub-title}
+
+Lorem Ipsum
+
+## 2.3. Veebipõhise küsimustiku koostamine {.unnumbered .sub-title}
+
+Lorem Ipsum
+
+## 2.4. Andmeanalüüsi põhimõisted {.unnumbered .sub-title}
+
+Lorem Ipsum
+
+## 2.5\*. Valim ja üldkogum {.unnumbered .sub-title}
+
+Lorem Ipsum
+
+## 2.6. Struktureeritud andmestik ja andmetabeli koostamine {.unnumbered .sub-title}
+
+Lorem Ipsum
+
+## 2.7. Andmete korrastamine {.unnumbered .sub-title}
+
+Lorem Ipsum
