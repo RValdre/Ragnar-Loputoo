@@ -1,6 +1,6 @@
-# 5. Uurimistulemuste esitlemine
+# 5. Uurimistulemuste esitlemine {.unnumbered}
 
-::: {style="border: 2px dotted #555; padding: 10px;"}
+::: {style="border: 2px dotted #555; padding: 10px; margin-bottom: 10px;"}
 Käesolevas peatükis keskendume järgmistele küsimustele:
 
 * Kuidas uurimisaruannet korrektselt vormistada?
@@ -10,3 +10,11 @@ diagramme?
 indeks?
 * Kuidas esitleda ja kaitsta oma uurimistöö tulemusi?
 :::
+
+## 5.1. Uurimisaruande vormistamine {.unnumbered .sub-title}
+
+## 5.2. Tabelid, diagrammid ja joonised {.unnumbered .sub-title}
+
+## 5.3. Siseviited, pealdis, indeks {.unnumbered .sub-title}
+
+## 5.4. Uurimistulemuste ettekandmine {.unnumbered .sub-title}

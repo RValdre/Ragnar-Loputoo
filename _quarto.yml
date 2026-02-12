@@ -11,50 +11,11 @@ book:
   date: "07/01/2013"
   chapters:
     - "index.qmd"
-    - part: "peatukk1/peatukk1.qmd"
-      chapters:
-        - "peatukk1/peatukk1-1.qmd"
-        - "peatukk1/peatukk1-2.qmd"
-        - "peatukk1/peatukk1-3.qmd"
-        - "peatukk1/peatukk1-4.qmd"
-        - "peatukk1/peatukk1-5.qmd"
-    - part: "peatukk2/peatukk2.qmd"
-      chapters:
-      - "peatukk2/peatukk2-1.qmd"
-      - "peatukk2/peatukk2-2.qmd"
-      - "peatukk2/peatukk2-3.qmd"
-      - "peatukk2/peatukk2-4.qmd"
-      - "peatukk2/peatukk2-5.qmd"
-      - "peatukk2/peatukk2-6.qmd"
-      - "peatukk2/peatukk2-7.qmd"
-    - part: "peatukk3/peatukk3.qmd"
-      chapters:
-        - "peatukk3/peatukk3-1.qmd"
-        - "peatukk3/peatukk3-2.qmd"
-        - "peatukk3/peatukk3-3.qmd"
-        - "peatukk3/peatukk3-4.qmd"
-        - "peatukk3/peatukk3-5.qmd"
-        - "peatukk3/peatukk3-6.qmd"
-        - "peatukk3/peatukk3-7.qmd"
-        - "peatukk3/peatukk3-8.qmd"
-        - "peatukk3/peatukk3-9.qmd"
-        - "peatukk3/peatukk3-10.qmd"
-        - "peatukk3/peatukk3-11.qmd"
-    - part: "peatukk4/peatukk4.qmd"
-      chapters:
-        - "peatukk4/peatukk4-1.qmd"
-        - "peatukk4/peatukk4-2.qmd"
-        - "peatukk4/peatukk4-3.qmd"
-        - "peatukk4/peatukk4-4.qmd"
-        - "peatukk4/peatukk4-5.qmd"
-        - "peatukk4/peatukk4-6.qmd"
-        - "peatukk4/peatukk4-7.qmd"
-    - part: "peatukk5/peatukk5.qmd"
-      chapters:
-        - "peatukk5/peatukk5-1.qmd"
-        - "peatukk5/peatukk5-2.qmd"
-        - "peatukk5/peatukk5-3.qmd"
-        - "peatukk5/peatukk5-4.qmd"
+    - "peatukk1/peatukk1.qmd"
+    - "peatukk2/peatukk2.qmd"
+    - "peatukk3/peatukk3.qmd"
+    - "peatukk4/peatukk4.qmd"
+    - "peatukk5/peatukk5.qmd"
     - "kokkuvotte.qmd"
     - "viited.qmd"
 
@@ -62,14 +23,13 @@ bibliography: "references.bib"
 
 format:
   html:
-    include-after-body:
-      text: |
-        <script type="application/javascript" src="sidebar-autoexpand.js"></script>
     theme:
-      - cosmo
-      - brand
+      - "cosmo"
+      - "brand"
+    css: 
+    - "components.css"
   pdf:
-    documentclass: scrreprt
+    documentclass: "scrreprt"
 
 
 

@@ -1,6 +1,6 @@
-# 3. Ülevaade andmetest
+# 3. Ülevaade andmetest {.unnumbered}
 
-::: {style="border: 2px dotted #555; padding: 10px;"}
+::: {style="border: 2px dotted #555; padding: 10px; margin-bottom: 10px;"}
 Käesolevas peatükis keskendume järgmistele küsimustele:
 
 * Millise meetodiga saab kõige lihtsamalt ülevaate andmetest?
@@ -10,3 +10,79 @@ Käesolevas peatükis keskendume järgmistele küsimustele:
 * Miks ei piisa mõnikord ainult keskväärtuse arvutamisest? Milleks on vaja mediaani,
 moodi ja standardhälvet?
 :::
+
+## 3.1. Andmete analüüsimise põhisammud {.unnumbered .sub-title}
+
+## 3.2. Sagedustabel {.unnumbered .sub-title}
+
+## 3.3. Analüüsi tulemuste esitlemisest {.unnumbered .sub-title}
+
+## 3.4. Tulpdiagramm {.unnumbered .sub-title}
+
+## 3.5. Sektordiagramm {.unnumbered .sub-title}
+
+## 3.6. Histogramm {.unnumbered .sub-title}
+
+## 3.7\*. Valimi põhjal saadud tulemuste üldistamine üldkogumile {.unnumbered .sub-title}
+
+::: {.split-box}
+::: {.split-left}
+Näide 16
+:::
+::: {.split-right}
+Eelpool toodud näites 9 (ptk 3.1) ja tabelis 4 jõudsime tulemuseni, et
+54,2% küsitlusele vastanutest külastab Facebooki portaali mitu korda
+päevas. Aga kui me ei sooviks teha järeldusi ainult vastanute, vaid ka
+kogu üldkogumi (Eesti kõigi 10.klasside õpilaste) kohta?
+:::
+:::
+
+::: {.table-colored}
+| | Vastajate arv | Osakaal |
+|----------|-------:|-----------:|
+| Mitu korda päevas | 347 | 54,2% |
+| Tavaliselt kord päevas | 209 | 32,7% |
+| Küllalt regulaarselt, aga mitte iga päev | 24 | 3,7% |
+| Üsna harva, ebaregulaarselt | 25 | 3,9% |
+| Ei kasuta üldse | 35 | 5,5% |
+| KOKKU | 640 | 100% |
+:::
+
+![Tabel 7. Facebooki külastamise sagedus õpilaste seas](Tabel%207.png){width=100%}
+
+Seega tahaksime nüüd üksnes 640 küsitletud õpilase vastuste põhjal teada: Kui suur
+osa kõigist Eesti 10.klassi õpilastest (e uuringu üldkogumist) külastab Facebooki lehte
+mitu korda päevas? Järgmisel leheküljel leiad abivahendi, mis aitab samm-sammult
+mõista põhjendusi ja loogikat, mille kaudu on võimalik anda valimi baasil kogutud
+andmete põhjal hinnang tervel üldkogumile.
+
+![Joonis 10. Statistilise järeldamise e. üldistamise selgitus](Joonis%2010.png)
+
+Valimilt üldkogumile järelduste tegemise e üldistamise käigus tekkida võiva juhusliku
+vea arvutamisel tuleb lähtuda vastavatest valemitest, mis on välja töötatud kõigi
+põhiliste arvnäitajate jaoks (sh alamgrupi osakaal, aritmeetiline keskmine jne).
+Arvutusvalemiga määratud juhuslikku viga nimetatakse standardveaks ja selle
+põhjal saab üldkogumi vastava arvnäitaja väärtusele e parameetrile hinnangu anda
+vastavalt alltoodud reeglitele:
+
+* 68% tõenäosusega asub üldkogumi parameeter vahemikus: valimi arvnäitaja väärtus ± 1 standardviga
+* 95% tõenäosusega asub üldkogumi parameeter vahemikus: valimi arvnäitaja väärtus ± 2 standardviga
+* 99% tõenäosusega asub üldkogumi parameeter vahemikus: valimi arvnäitaja väärtus ± 2,5 standardviga
+
+Kel on üldistava statistika vastu sügavam huvi, leiab põhjalikumad selgitused, valemid
+ja matemaatilise tausta järgmistes allikates:
+
+* K. Niglas “Andmeanalüüsi loengumaterjalid” (lk 32–37)
+* K. Hiob „Matemaatiline statistika” algkursus koolidele (lk 44–50)
+
+## 3.8\*. Vahemikhinnang valitud grupi osakaalu kirjeldamiseks üldkogumis {.unnumbered .sub-title}
+
+To DO:
+
+## 3.9. Keskmised  {.unnumbered .sub-title}
+
+To DO:
+
+## 3.10. Väärtuste hajuvust kirjeldavad arvnäitajad {.unnumbered .sub-title}
+
+## 3.11\*. Üldkogumi keskväärtuse vahemikhinnang {.unnumbered .sub-title}
