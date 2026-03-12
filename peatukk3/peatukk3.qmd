@@ -77,11 +77,48 @@ ja matemaatilise tausta järgmistes allikates:
 
 ## 3.8\*. Vahemikhinnang valitud grupi osakaalu kirjeldamiseks üldkogumis {.unnumbered .sub-title}
 
-To DO:
+Hindame näites 9 (ptk 3.1) ja tabelis 7 toodud andmete põhjal, mitu protsenti
+üldkogumi liikmetest külastab Facebooki lehte mitu korda päevas.
+
+![](n%C3%A4itetabel.png)
+
+**Üldkogumi osakaalu leidmiseks** rakendame reeglit:<br>
+95% tõenäosusega asub üldkogumi parameeter vahemikus valimi arvnäitaja väärtus ±
+2 st. viga 
+
+St.viga\%= $\sqrt{\frac{p(100 - p)}{N}}$
+
+Asendades valemis tähistused konkreetsete väärtustega, saame, et st. viga%=
+
+$$ {\sqrt{\frac{54.22(100-54.22)}{610}} = \sqrt{\frac{2482.19}{610}} = 1.97\%} $$
+
+95% tõenäosusega jääb üldkogumi osakaal vahemikku 54,22% 2·1,97% e 54,22%
+3,94%.
+
+Arvutuste põhjal saame järeldada, et nende õpilaste osakaal kõigi Eesti õpilaste seas (e
+üldkogumis), kes külastavad Facebooki lehte mitu korda päevas, jääb 95%
+tõenäosusega vahemikku 50,3...58,2%.
+
+::: {style="border-bottom: 2px dotted; margin-bottom: 15px;" .no-margin}
+### *Ülesanded*
+:::
+
+66\. Leia näites 9 ja tabelis 7 toodud andmete põhjal, kui suur osa Eesti õpilastest ei
+külasta Facebooki lehte üldse. Sõnasta järeldus ja selgita tulemust oma sõnadega.
+
+67\. Kõikidest Eesti koolide abiturientidest moodustatud juhuvalimi uurimisel saadi
+teada, et ülikooli soovib edasi õppima minna 46%. Millise hinnangu saab selle põhjal
+anda üldkogumi vastavale osakaalule, kui uuritud valimi suurus oli 1500 õpilast?
+
+68\. 2006. a läbiviidud uuringus „Lapsed ja internet” selgus, et uuritud 6–14-
+aastastest lastest on interneti jututoas või suhtlusprogrammis kontakti loonud
+võõrastega kohtumas käinud 6% vastanutest. Hinnake, kui suur osa Eesti 6—14-
+aastastest lastest oli 2006. aasta seisuga võõrastega kohtumas käinud, kui on teada, et
+valimisse kuulus 145 õpilast ja 2006. a seisuga oli Eestis 122 985 last vanuses 6–14
+aastat.
+
 
 ## 3.9. Keskmised  {.unnumbered .sub-title}
-
-To DO:
 
 ## 3.10. Väärtuste hajuvust kirjeldavad arvnäitajad {.unnumbered .sub-title}
 
