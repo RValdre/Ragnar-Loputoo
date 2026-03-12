@@ -1,6 +1,6 @@
 # 1. Uurimistöö: mõisted, protsess, alustamine {.unnumbered}
 
-::: {style="border: 2px dotted #555; padding: 10px; margin-bottom: 10px;"}
+::: {.dotted-box}
 Käesolevas peatükis keskendume järgmistele küsimustele:
 
 * Mis on teaduslik uurimistöö? Kuidas erineb see teistest uurimistöö liikidest?

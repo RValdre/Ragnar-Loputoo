@@ -1,6 +1,6 @@
 # 2. Andmete kogumine ja analüüsiks ettevalmistamine {.unnumbered}
 
-::: {style="border: 2px dotted #555; padding: 10px; margin-bottom: 10px;"}
+::: {.dotted-box}
 Käesolevas peatükis keskendume järgmistele küsimustele:
 
 * Kuidas andmeid koguda, et uurimistöö tulemused oleksid usaldusväärsed? 

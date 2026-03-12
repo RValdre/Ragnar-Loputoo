@@ -1,6 +1,6 @@
 # 3. Ülevaade andmetest {.unnumbered}
 
-::: {style="border: 2px dotted #555; padding: 10px; margin-bottom: 10px;"}
+::: {.dotted-box}
 Käesolevas peatükis keskendume järgmistele küsimustele:
 
 * Millise meetodiga saab kõige lihtsamalt ülevaate andmetest?
@@ -27,7 +27,7 @@ moodi ja standardhälvet?
 
 ::: {.split-box}
 ::: {.split-left}
-Näide 16
+![Nikola Tesla](Tesla_circa_1890.jpeg)
 :::
 ::: {.split-right}
 Eelpool toodud näites 9 (ptk 3.1) ja tabelis 4 jõudsime tulemuseni, et

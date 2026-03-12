@@ -67,3 +67,9 @@ h2.sub-title {
 .no-margin p {
     margin: 0;
 }
+
+.dotted-box {
+    border: 2px dotted #555;
+    padding: 10px;
+    margin-bottom: 10px;
+}
